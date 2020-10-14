@@ -10,6 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8b11b6f-4e71-46d8-96e9-3f5b1024733f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/mypage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +43,7 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.62" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -51,6 +53,13 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,6 +74,7 @@
       <workItem from="1601430669698" duration="607000" />
       <workItem from="1601617255945" duration="4849000" />
       <workItem from="1601872442035" duration="3377000" />
+      <workItem from="1602633204498" duration="456000" />
     </task>
     <task id="LOCAL-00001" summary="Just added a my resume HTML assignment">
       <created>1601617357676</created>
@@ -80,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601875860278</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added my &quot;First page&quot;">
+      <created>1602633223518</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602633223518</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,13 +106,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Just added a my resume HTML assignment" />
     <MESSAGE value="Finished my resume" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished my resume" />
+    <MESSAGE value="Added my &quot;First page&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added my &quot;First page&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1601875859240">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1602633222632">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1601875859240" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602633222632" />
     <state x="422" y="83" key="FileChooserDialogImpl" timestamp="1601431270668">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -116,9 +134,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601876300659" />
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1601875864443">
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602633231598">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1601875864443" />
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602633231598" />
   </component>
 </project>
