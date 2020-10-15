@@ -4,29 +4,27 @@
     <meta charset="UTF-8">
     <title>Numbers</title>
     <style>
-        .outterlastbox{
-            margin: 5px 100px;
-            height: 600px;
+        .container {
+            display: flex;
+            height: auto;
+            background: white;
+            margin: 30px 200px;
         }
-        .largeinnerbox{
-            border:1px solid black;
-            width:75%;
-            height:600px;
-            background-color: salmon;
-            float:left;
+        .item {
+            width: 20%;
+            background: lightyellow;
+            line-height: normal;
+            text-align: left;
+            margin: 0px;
+            border: 2px solid black;
         }
-        .smallInnerbox{
-            background-color: lightyellow;
-            height:600px;
-            width: 10%;
-            border:2px solid black;
-            float: left;
-        }
-        .secondsmallInner{
-            background-color: lightyellow;
-            border:2px solid black;
-            width:10%;
-            float: left;
+        .middleItem{
+            width: 80%;
+            background: salmon;
+            line-height: normal;
+            text-align: left;
+            margin: 0px;
+            border: 2px solid black;
         }
         .centerimg{
             margin: 30px 220px;
@@ -34,10 +32,12 @@
         .outterfirstBox{
             border:20px solid darkseagreen;
             margin: 30px 360px;
+            display: flex;
         }
         .firstBox{
             padding: 5px;
             Border: 3px solid black;
+            display: flex;
         }
         .center {
             margin-left: auto;
@@ -182,8 +182,10 @@
         <img src="Table.png" width="800" >
         </div>
 
-<div class="outterlastbox">
-    <div class="smallInnerbox">
+
+
+<div class="container">
+    <div class="item">
         <p>Lorem ipsum
             dolor sit amet,
             consectetur
@@ -217,7 +219,7 @@
             mollit anim id
             est laborum.</p>
     </div>
-    <div class="largeinnerbox">
+    <div class="middleItem">
         <p>Sed ut perspiciatis unde omnis iste natus error sit
             voluptatem accusantium doloremque laudantium,
             totam rem aperiam, eaque ipsa quae ab illo inventore
@@ -254,38 +256,38 @@
             consequatur, vel illum qui dolorem eum fugiat quo
             voluptas nulla pariatur?</p>
     </div>
-    <div class="secondsmallInner">
-    <p>Lorem ipsum
-        dolor sit amet,
-        consectetur
-        adipiscing elit,
-        sed do eiusmod
-        tempor
-        incididunt ut
-        labore et dolore
-        magna aliqua. Ut
-        enim ad minim
-        veniam, quis
-        nostrud
-        exercitation
-        ullamco laboris
-        nisi ut aliquip ex
-        ea commodo
-        consequat. Duis
-        aute irure dolor
-        in reprehenderit
-        in voluptate velit
-        esse cillum dolore
-        eu fugiat nulla
-        pariatur.
-        Excepteur sint
-        occaecat
-        cupidatat non
-        proident, sunt in
-        culpa qui officia
-        deserunt mollit
-        anim id est
-        laborum.</p>
+    <div class="item">
+        <p>Lorem ipsum
+            dolor sit amet,
+            consectetur
+            adipiscing elit,
+            sed do eiusmod
+            tempor
+            incididunt ut
+            labore et dolore
+            magna aliqua. Ut
+            enim ad minim
+            veniam, quis
+            nostrud
+            exercitation
+            ullamco laboris
+            nisi ut aliquip ex
+            ea commodo
+            consequat. Duis
+            aute irure dolor
+            in reprehenderit
+            in voluptate velit
+            esse cillum dolore
+            eu fugiat nulla
+            pariatur.
+            Excepteur sint
+            occaecat
+            cupidatat non
+            proident, sunt in
+            culpa qui officia
+            deserunt mollit
+            anim id est
+            laborum.</p>
     </div>
 </div>
 </body>

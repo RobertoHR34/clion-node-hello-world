@@ -10,11 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8b11b6f-4e71-46d8-96e9-3f5b1024733f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/numbers.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/mypage.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/mypage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/numbers.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/numbers.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +54,6 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -78,7 +68,9 @@
       <workItem from="1601617255945" duration="4849000" />
       <workItem from="1601872442035" duration="3377000" />
       <workItem from="1602633204498" duration="6781000" />
-      <workItem from="1602655306820" duration="5609000" />
+      <workItem from="1602655306820" duration="6027000" />
+      <workItem from="1602663301197" duration="44000" />
+      <workItem from="1602738441122" duration="2942000" />
     </task>
     <task id="LOCAL-00001" summary="Just added a my resume HTML assignment">
       <created>1601617357676</created>
@@ -108,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602633671842</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finished My website! had some alignment issues but its okay">
+      <created>1602660990375</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602660990375</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,13 +117,18 @@
     <MESSAGE value="Just added a my resume HTML assignment" />
     <MESSAGE value="Finished my resume" />
     <MESSAGE value="Added my &quot;First page&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added my &quot;First page&quot;" />
+    <MESSAGE value="Finished My website! had some alignment issues but its okay" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished My website! had some alignment issues but its okay" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1602633670884">
+    <state x="393" y="165" key="#Notifications" timestamp="1602661023153">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602633670884" />
+    <state x="393" y="165" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1602661023153" />
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1602660989523">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602660989523" />
     <state x="422" y="83" key="FileChooserDialogImpl" timestamp="1601431270668">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -145,10 +149,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="618" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602640782154" />
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602633231598">
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602660994544">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602633231598" />
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602660994544" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1602660357667">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
