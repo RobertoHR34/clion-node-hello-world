@@ -54,6 +54,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,7 +77,8 @@
       <workItem from="1602633204498" duration="6781000" />
       <workItem from="1602655306820" duration="6027000" />
       <workItem from="1602663301197" duration="44000" />
-      <workItem from="1602738441122" duration="2942000" />
+      <workItem from="1602738441122" duration="3139000" />
+      <workItem from="1602813188016" duration="371000" />
     </task>
     <task id="LOCAL-00001" summary="Just added a my resume HTML assignment">
       <created>1601617357676</created>
@@ -107,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602660990375</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Edited the website even more">
+      <created>1602741420944</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602741420944</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,17 +133,18 @@
     <MESSAGE value="Finished my resume" />
     <MESSAGE value="Added my &quot;First page&quot;" />
     <MESSAGE value="Finished My website! had some alignment issues but its okay" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished My website! had some alignment issues but its okay" />
+    <MESSAGE value="Edited the website even more" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited the website even more" />
   </component>
   <component name="WindowStateProjectService">
     <state x="393" y="165" key="#Notifications" timestamp="1602661023153">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="393" y="165" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1602661023153" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1602660989523">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1602741420093">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602660989523" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602741420093" />
     <state x="422" y="83" key="FileChooserDialogImpl" timestamp="1601431270668">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -149,10 +165,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="618" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602640782154" />
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602660994544">
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602741441400">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602660994544" />
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602741441400" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1602660357667">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
