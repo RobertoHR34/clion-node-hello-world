@@ -10,8 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8b11b6f-4e71-46d8-96e9-3f5b1024733f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/GuessingGame.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/GuessingGame.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/GuessingGame.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,8 @@
       <workItem from="1602813188016" duration="3279000" />
       <workItem from="1603264547000" duration="65000" />
       <workItem from="1604185176496" duration="1952000" />
-      <workItem from="1604187744122" duration="371000" />
+      <workItem from="1604187744122" duration="402000" />
+      <workItem from="1604265292636" duration="7147000" />
     </task>
     <task id="LOCAL-00001" summary="Just added a my resume HTML assignment">
       <created>1601617357676</created>
@@ -132,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602816274905</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Finished website">
+      <created>1604188124612</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604188124612</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,10 +165,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="372" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602813398369" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1602816274057">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1604188123648">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602816274057" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1604188123648" />
     <state x="422" y="83" key="FileChooserDialogImpl" timestamp="1603264578302">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -181,17 +189,17 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="618" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602816493505" />
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602816279267">
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1604188128488">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602816279267" />
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1604188128488" />
     <state x="460" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602816255244">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="460" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1602816255244" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1602660357667">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1604269685008">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1602660357667" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1604269685008" />
   </component>
 </project>
