@@ -54,6 +54,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,7 +82,8 @@
       <workItem from="1603264547000" duration="65000" />
       <workItem from="1604185176496" duration="1952000" />
       <workItem from="1604187744122" duration="402000" />
-      <workItem from="1604265292636" duration="7147000" />
+      <workItem from="1604265292636" duration="7452000" />
+      <workItem from="1604285956259" duration="5857000" />
     </task>
     <task id="LOCAL-00001" summary="Just added a my resume HTML assignment">
       <created>1601617357676</created>
@@ -140,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604188124612</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added guessing game still need to work on assigning random number">
+      <created>1604272736552</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604272736552</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,7 +169,8 @@
     <MESSAGE value="Edited the website even more" />
     <MESSAGE value="Added Photos" />
     <MESSAGE value="Finished website" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished website" />
+    <MESSAGE value="Added guessing game still need to work on assigning random number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added guessing game still need to work on assigning random number" />
   </component>
   <component name="WindowStateProjectService">
     <state x="393" y="165" key="#Notifications" timestamp="1602661023153">
@@ -165,34 +181,34 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="372" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602813398369" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1604188123648">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1604272735578">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1604188123648" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1604272735578" />
     <state x="422" y="83" key="FileChooserDialogImpl" timestamp="1603264578302">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="422" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603264578302" />
-    <state width="618" height="163" key="GridCell.Tab.0.bottom" timestamp="1602816493505">
+    <state width="618" height="163" key="GridCell.Tab.0.bottom" timestamp="1604291669286">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="618" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602816493505" />
-    <state width="618" height="163" key="GridCell.Tab.0.center" timestamp="1602816493505">
+    <state width="618" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604291669286" />
+    <state width="618" height="163" key="GridCell.Tab.0.center" timestamp="1604291669286">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="618" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602816493505" />
-    <state width="618" height="163" key="GridCell.Tab.0.left" timestamp="1602816493505">
+    <state width="618" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604291669286" />
+    <state width="618" height="163" key="GridCell.Tab.0.left" timestamp="1604291669286">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="618" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602816493505" />
-    <state width="618" height="163" key="GridCell.Tab.0.right" timestamp="1602816493505">
+    <state width="618" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604291669286" />
+    <state width="618" height="163" key="GridCell.Tab.0.right" timestamp="1604291669286">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="618" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602816493505" />
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1604188128488">
+    <state width="618" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604291669286" />
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1604272739817">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1604188128488" />
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1604272739817" />
     <state x="460" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602816255244">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
